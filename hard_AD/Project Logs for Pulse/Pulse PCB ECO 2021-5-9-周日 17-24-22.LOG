@@ -1,0 +1,9 @@
+Added Component: Designator=P6(fpc_4p)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA2 Pin=P6-1
+Added Pin To Net: NetName=PA3 Pin=P6-2
+Added Pin To Net: NetName=USB_5V Pin=P6-3
+Added Pin To Net: NetName=GND Pin=P6-4
+Added Member To Class: ClassName=Pulse Member=Component P6 Header 4

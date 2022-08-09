@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=JP1-1
+Removed Pin From Net: NetName=JTMS/SWDIO Pin=JP1-2
+Removed Pin From Net: NetName=JTCK/SWCLK Pin=JP1-3
+Removed Pin From Net: NetName=NRST Pin=JP1-4
+Removed Pin From Net: NetName=3.3V Pin=JP1-5
+Removed Pin From Net: NetName=GND Pin=JP1-6
+Removed Member From Class: ClassName=Pulse2 Member=JP1
+Added Component: Designator=JP?(MX 1.25-WI-5P)
+Add component (AddParameter): Name = "BOM名称"; Value = "5P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=JTCK/SWCLK Pin=JP?-1
+Added Pin To Net: NetName=GND Pin=JP?-2
+Added Pin To Net: NetName=JTMS/SWDIO Pin=JP?-3
+Added Pin To Net: NetName=NRST Pin=JP?-4
+Added Pin To Net: NetName=3.3V Pin=JP?-5
+Added Member To Class: ClassName=Pulse2 Member=Component JP? HDR-1X5

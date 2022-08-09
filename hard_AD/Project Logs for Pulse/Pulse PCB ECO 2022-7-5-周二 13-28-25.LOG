@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3.3V Pin=R14-1
+Removed Pin From Net: NetName=3.3V Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=USB1-A1B12
+Removed Pin From Net: NetName=USB_5V Pin=USB1-A4B9
+Removed Pin From Net: NetName=D+ Pin=USB1-A6
+Removed Pin From Net: NetName=D- Pin=USB1-A7
+Removed Pin From Net: NetName=GND Pin=USB1-B1A12
+Removed Pin From Net: NetName=USB_5V Pin=USB1-B4A9
+Removed Pin From Net: NetName=D+ Pin=USB1-B6
+Removed Pin From Net: NetName=D- Pin=USB1-B7
+Removed Member From Class: ClassName=Pulse2 Member=USB1
+Added Pin To Net: NetName=BAT_4.2 Pin=R14-1
+Added Pin To Net: NetName=BAT_4.2 Pin=R16-1

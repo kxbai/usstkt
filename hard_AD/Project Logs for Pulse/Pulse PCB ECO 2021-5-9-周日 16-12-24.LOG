@@ -1,0 +1,9 @@
+Added Component: Designator=U2(bluetooth)
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=PA8 Pin=U2-5
+Added Pin To Net: NetName=CT_3.3V Pin=U2-6
+Added Pin To Net: NetName=PA9 Pin=U2-8
+Added Pin To Net: NetName=PB14 Pin=U2-9
+Added Pin To Net: NetName=PB7 Pin=U2-10
+Added Pin To Net: NetName=PA10 Pin=U2-11
+Added Member To Class: ClassName=Pulse Member=Component U2 PW02

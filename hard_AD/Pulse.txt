@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : D:\Desktop\00KT\02_脉搏手环\7_手环显示界面修改\hard\Pulse.PcbDoc
+Date         : 2022/7/23
+Time         : 17:16:13
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 1102.362milsx1181.102mils
+    Components on board, 71
+count : 2

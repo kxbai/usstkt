@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=CT_3.3V Pin=IC1-1
+Removed Pin From Net: NetName=PB7 Pin=IC1-2
+Removed Pin From Net: NetName=PB6 Pin=IC1-3
+Removed Pin From Net: NetName=GND Pin=IC1-4
+Removed Member From Class: ClassName=Pulse2 Member=IC1
+Added Pin To Net: NetName=CT_3.3V Pin=JP2-1
+Added Pin To Net: NetName=PB7 Pin=JP2-2
+Added Pin To Net: NetName=PB6 Pin=JP2-3
+Added Pin To Net: NetName=GND Pin=JP2-4
+Added Member To Class: ClassName=Pulse2 Member=Component JP2 HDR-1X4

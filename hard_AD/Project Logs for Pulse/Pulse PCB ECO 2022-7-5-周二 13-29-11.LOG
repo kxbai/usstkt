@@ -1,0 +1,15 @@
+Added Component: Designator=U9(TYPE-C CB1.6)
+Added Pin To Net: NetName=GND Pin=U9-A1
+Added Pin To Net: NetName=USB_5V Pin=U9-A4
+Added Pin To Net: NetName=D+ Pin=U9-A6
+Added Pin To Net: NetName=D- Pin=U9-A7
+Added Pin To Net: NetName=USB_5V Pin=U9-A9
+Added Pin To Net: NetName=GND Pin=U9-A12
+Added Pin To Net: NetName=GND Pin=U9-B1
+Added Pin To Net: NetName=USB_5V Pin=U9-B4
+Added Pin To Net: NetName=D+ Pin=U9-B6
+Added Pin To Net: NetName=D- Pin=U9-B7
+Added Pin To Net: NetName=USB_5V Pin=U9-B9
+Added Pin To Net: NetName=GND Pin=U9-B12
+Added Member To Class: ClassName=Pulse2 Member=Component U9
+Added Room: Name=Pulse2

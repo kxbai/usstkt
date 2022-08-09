@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW2-3
+Change Component Footprint: Designator=C1 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C2 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C3 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C4 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C5 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C6 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C7 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C8 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C10 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C11 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C12 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C13 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C14 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=C15 Old Footprint=0603_C New Footprint=LC-0603_C
+Change Component Footprint: Designator=R2 Old Footprint=0603_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R3 Old Footprint=0603_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R4 Old Footprint=0603_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R5 Old Footprint=0603_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R6 Old Footprint=0603_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R7 Old Footprint=0603_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R8 Old Footprint=0603_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R9 Old Footprint=0603_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R10 Old Footprint=0603_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R14 Old Footprint=0603_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=R21 Old Footprint=0603_R New Footprint=LC-0603_R
+Change Component Footprint: Designator=D1 Old Footprint=0805_LED_S1 New Footprint=LC-0805_LED_S1
+Change Component Footprint: Designator=D2 Old Footprint=0805_LED_S1 New Footprint=LC-0805_LED_S1
+Change Component Footprint: Designator=D5 Old Footprint=0805_LED_S1 New Footprint=LC-0805_LED_S1
+Change Component Footprint: Designator=SW1 Old Footprint=key New Footprint=button
+Change Component Footprint: Designator=SW2 Old Footprint=key New Footprint=button
+Change Component Footprint: Designator=D3 Old Footprint=SOD-123 New Footprint=LC-SOD-123
+Change Component Footprint: Designator=D4 Old Footprint=SOD-323 New Footprint=LC-SOD-123
+Change Component Footprint: Designator=Q1 Old Footprint=SOT-23(SOT-23-3) New Footprint=LC-SOT-23(SOT-23-3)
+Change Component Footprint: Designator=U4 Old Footprint=SOT-23(SOT-23-3) New Footprint=LC-SOT-23(SOT-23-3)
+Change Component Footprint: Designator=U3 Old Footprint=SOT-23-5 New Footprint=LC-SOT-23-5
+Change component parameters: Designator = "D1" ("D1"); Footprint = "0805_LED_S1"; UniqueID = "\FOTSXFBX" ("\FOTSXFBX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2668.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C2295"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "0805_LED_S1"; UniqueID = "\NJYMMKHL" ("\NJYMMKHL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2668.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C2295"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "SOD-323"; UniqueID = "\PRBBYTRX" ("\PRBBYTRX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2485.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C2128"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "0805_LED_S1"; UniqueID = "\PVGNQRRP" ("\PVGNQRRP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2668.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C2295"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "key"; UniqueID = "\BGFTIUAG" ("\BGFTIUAG")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "3x6轻触开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款，本店3~10元现金奖励"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "key"; UniqueID = "\MLKSRFNE" ("\MLKSRFNE")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "3x6轻触开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "免费技术支持，联系售后"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款，本店3~10元现金奖励"; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=PulseMPCB-Main-V02 New Net Name=Pulse
