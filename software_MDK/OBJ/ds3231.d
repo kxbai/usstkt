@@ -3,7 +3,7 @@
 ..\obj\ds3231.o: ..\SYSTEM\sys\sys.h
 ..\obj\ds3231.o: ..\USER\stm32f10x.h
 ..\obj\ds3231.o: ..\CORE\core_cm3.h
-..\obj\ds3231.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\ds3231.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\ds3231.o: ..\USER\system_stm32f10x.h
 ..\obj\ds3231.o: ..\USER\stm32f10x_conf.h
 ..\obj\ds3231.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -33,14 +33,14 @@
 ..\obj\ds3231.o: ..\HARDWARE\i2c_soft.h
 ..\obj\ds3231.o: ..\SYSTEM\delay\delay.h
 ..\obj\ds3231.o: ..\Watch\common.h
-..\obj\ds3231.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\ds3231.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\ds3231.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\ds3231.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\ds3231.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\ds3231.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\ds3231.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\ds3231.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\ds3231.o: ..\Watch\config.h
 ..\obj\ds3231.o: ..\Watch\util.h
 ..\obj\ds3231.o: ..\Watch\typedefs.h
-..\obj\ds3231.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\ds3231.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
 ..\obj\ds3231.o: ..\Watch\debug.h
 ..\obj\ds3231.o: ..\Watch\buttons.h
 ..\obj\ds3231.o: ..\Watch\millis.h

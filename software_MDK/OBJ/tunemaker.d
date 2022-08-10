@@ -1,14 +1,14 @@
 ..\obj\tunemaker.o: ..\Watch\tunemaker.c
 ..\obj\tunemaker.o: ..\Watch\common.h
-..\obj\tunemaker.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\tunemaker.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\tunemaker.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\tunemaker.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\tunemaker.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\tunemaker.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\tunemaker.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\tunemaker.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\tunemaker.o: ..\Watch\config.h
 ..\obj\tunemaker.o: ..\Watch\util.h
 ..\obj\tunemaker.o: ..\Watch\typedefs.h
-..\obj\tunemaker.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\tunemaker.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\tunemaker.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\tunemaker.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\tunemaker.o: ..\Watch\debug.h
 ..\obj\tunemaker.o: ..\Watch\buttons.h
 ..\obj\tunemaker.o: ..\Watch\millis.h

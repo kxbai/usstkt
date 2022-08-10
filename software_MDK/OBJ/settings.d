@@ -1,14 +1,14 @@
 ..\obj\settings.o: ..\Watch\settings.c
 ..\obj\settings.o: ..\Watch\common.h
-..\obj\settings.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\settings.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\settings.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\settings.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\settings.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\settings.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\settings.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\settings.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\settings.o: ..\Watch\config.h
 ..\obj\settings.o: ..\Watch\util.h
 ..\obj\settings.o: ..\Watch\typedefs.h
-..\obj\settings.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\settings.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\settings.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\settings.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\settings.o: ..\Watch\debug.h
 ..\obj\settings.o: ..\Watch\buttons.h
 ..\obj\settings.o: ..\Watch\millis.h

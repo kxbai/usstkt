@@ -1,14 +1,14 @@
 ..\obj\stopwatch.o: ..\Watch\stopwatch.c
 ..\obj\stopwatch.o: ..\Watch\common.h
-..\obj\stopwatch.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\stopwatch.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\stopwatch.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\stopwatch.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\stopwatch.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\stopwatch.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\stopwatch.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\stopwatch.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\stopwatch.o: ..\Watch\config.h
 ..\obj\stopwatch.o: ..\Watch\util.h
 ..\obj\stopwatch.o: ..\Watch\typedefs.h
-..\obj\stopwatch.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\stopwatch.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stopwatch.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\stopwatch.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\stopwatch.o: ..\Watch\debug.h
 ..\obj\stopwatch.o: ..\Watch\buttons.h
 ..\obj\stopwatch.o: ..\Watch\millis.h

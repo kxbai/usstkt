@@ -1,14 +1,14 @@
 ..\obj\animation.o: ..\Watch\animation.c
 ..\obj\animation.o: ..\Watch\common.h
-..\obj\animation.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\animation.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\animation.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\animation.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\animation.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\animation.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\animation.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\animation.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\animation.o: ..\Watch\config.h
 ..\obj\animation.o: ..\Watch\util.h
 ..\obj\animation.o: ..\Watch\typedefs.h
-..\obj\animation.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\animation.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\animation.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\animation.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\animation.o: ..\Watch\debug.h
 ..\obj\animation.o: ..\Watch\buttons.h
 ..\obj\animation.o: ..\Watch\millis.h

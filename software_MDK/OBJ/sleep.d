@@ -1,14 +1,14 @@
 ..\obj\sleep.o: ..\Watch\sleep.c
 ..\obj\sleep.o: ..\Watch\common.h
-..\obj\sleep.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\sleep.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\sleep.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\sleep.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\sleep.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\sleep.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\sleep.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\sleep.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\sleep.o: ..\Watch\config.h
 ..\obj\sleep.o: ..\Watch\util.h
 ..\obj\sleep.o: ..\Watch\typedefs.h
-..\obj\sleep.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\sleep.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\sleep.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\sleep.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\sleep.o: ..\Watch\debug.h
 ..\obj\sleep.o: ..\Watch\buttons.h
 ..\obj\sleep.o: ..\Watch\millis.h

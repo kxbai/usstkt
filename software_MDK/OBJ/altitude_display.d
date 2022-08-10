@@ -1,14 +1,14 @@
 ..\obj\altitude_display.o: ..\MYAPP\altitude_display.c
 ..\obj\altitude_display.o: ..\Watch\common.h
-..\obj\altitude_display.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\altitude_display.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\altitude_display.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\altitude_display.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\altitude_display.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\altitude_display.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\altitude_display.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\altitude_display.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\altitude_display.o: ..\Watch\config.h
 ..\obj\altitude_display.o: ..\Watch\util.h
 ..\obj\altitude_display.o: ..\Watch\typedefs.h
-..\obj\altitude_display.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\altitude_display.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\altitude_display.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\altitude_display.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\altitude_display.o: ..\Watch\debug.h
 ..\obj\altitude_display.o: ..\Watch\buttons.h
 ..\obj\altitude_display.o: ..\Watch\millis.h
@@ -86,4 +86,4 @@
 ..\obj\altitude_display.o: ..\MYAPP\altitude_display.h
 ..\obj\altitude_display.o: ..\HARDWARE\bme280.h
 ..\obj\altitude_display.o: ..\SYSTEM\usart\usart.h
-..\obj\altitude_display.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\math.h
+..\obj\altitude_display.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\math.h

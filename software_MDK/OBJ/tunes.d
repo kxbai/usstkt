@@ -1,14 +1,14 @@
 ..\obj\tunes.o: ..\Watch\tunes.c
 ..\obj\tunes.o: ..\Watch\common.h
-..\obj\tunes.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\tunes.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\tunes.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\tunes.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\tunes.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\tunes.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\tunes.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\tunes.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\tunes.o: ..\Watch\config.h
 ..\obj\tunes.o: ..\Watch\util.h
 ..\obj\tunes.o: ..\Watch\typedefs.h
-..\obj\tunes.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\tunes.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\tunes.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\tunes.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\tunes.o: ..\Watch\debug.h
 ..\obj\tunes.o: ..\Watch\buttons.h
 ..\obj\tunes.o: ..\Watch\millis.h

@@ -1,14 +1,14 @@
 ..\obj\game2.o: ..\Watch\game2.c
 ..\obj\game2.o: ..\Watch\common.h
-..\obj\game2.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\game2.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\game2.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\game2.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\game2.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\game2.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\game2.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\game2.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\game2.o: ..\Watch\config.h
 ..\obj\game2.o: ..\Watch\util.h
 ..\obj\game2.o: ..\Watch\typedefs.h
-..\obj\game2.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\game2.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\game2.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\game2.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\game2.o: ..\Watch\debug.h
 ..\obj\game2.o: ..\Watch\buttons.h
 ..\obj\game2.o: ..\Watch\millis.h

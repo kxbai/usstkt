@@ -1,14 +1,14 @@
 ..\obj\torch.o: ..\Watch\torch.c
 ..\obj\torch.o: ..\Watch\common.h
-..\obj\torch.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\torch.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\torch.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\torch.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\torch.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\torch.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\torch.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\torch.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\torch.o: ..\Watch\config.h
 ..\obj\torch.o: ..\Watch\util.h
 ..\obj\torch.o: ..\Watch\typedefs.h
-..\obj\torch.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\torch.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\torch.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\torch.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\torch.o: ..\Watch\debug.h
 ..\obj\torch.o: ..\Watch\buttons.h
 ..\obj\torch.o: ..\Watch\millis.h

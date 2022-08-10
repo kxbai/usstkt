@@ -1,14 +1,14 @@
 ..\obj\draw.o: ..\Watch\draw.c
 ..\obj\draw.o: ..\Watch\common.h
-..\obj\draw.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\draw.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\draw.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\draw.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\draw.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\draw.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\draw.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\draw.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\draw.o: ..\Watch\config.h
 ..\obj\draw.o: ..\Watch\util.h
 ..\obj\draw.o: ..\Watch\typedefs.h
-..\obj\draw.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\draw.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\draw.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\draw.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\draw.o: ..\Watch\debug.h
 ..\obj\draw.o: ..\Watch\buttons.h
 ..\obj\draw.o: ..\Watch\millis.h

@@ -1,14 +1,14 @@
 ..\obj\menu.o: ..\Watch\menu.c
 ..\obj\menu.o: ..\Watch\common.h
-..\obj\menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\menu.o: ..\Watch\config.h
 ..\obj\menu.o: ..\Watch\util.h
 ..\obj\menu.o: ..\Watch\typedefs.h
-..\obj\menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\menu.o: ..\Watch\debug.h
 ..\obj\menu.o: ..\Watch\buttons.h
 ..\obj\menu.o: ..\Watch\millis.h
@@ -83,4 +83,4 @@
 ..\obj\menu.o: ..\HARDWARE\mpu\mpu_task.h
 ..\obj\menu.o: ..\MYAPP\wait_data_clock.h
 ..\obj\menu.o: ..\MYAPP\gui_log_console.h
-..\obj\menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\math.h
+..\obj\menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\math.h

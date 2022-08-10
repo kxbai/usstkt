@@ -3,7 +3,7 @@
 ..\obj\beep.o: ..\SYSTEM\sys\sys.h
 ..\obj\beep.o: ..\USER\stm32f10x.h
 ..\obj\beep.o: ..\CORE\core_cm3.h
-..\obj\beep.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\beep.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\beep.o: ..\USER\system_stm32f10x.h
 ..\obj\beep.o: ..\USER\stm32f10x_conf.h
 ..\obj\beep.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -31,12 +31,12 @@
 ..\obj\beep.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
 ..\obj\beep.o: ..\STM32F10x_FWLib\inc\misc.h
 ..\obj\beep.o: ..\Watch\typedefs.h
-..\obj\beep.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\beep.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
 ..\obj\beep.o: ..\Watch\common.h
-..\obj\beep.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\beep.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\beep.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\beep.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\beep.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\beep.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\beep.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\beep.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\beep.o: ..\Watch\config.h
 ..\obj\beep.o: ..\Watch\util.h
 ..\obj\beep.o: ..\Watch\debug.h

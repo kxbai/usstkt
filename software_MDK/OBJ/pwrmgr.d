@@ -1,14 +1,14 @@
 ..\obj\pwrmgr.o: ..\Watch\pwrmgr.c
 ..\obj\pwrmgr.o: ..\Watch\common.h
-..\obj\pwrmgr.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\pwrmgr.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\pwrmgr.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\pwrmgr.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\pwrmgr.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\pwrmgr.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\pwrmgr.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\pwrmgr.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\pwrmgr.o: ..\Watch\config.h
 ..\obj\pwrmgr.o: ..\Watch\util.h
 ..\obj\pwrmgr.o: ..\Watch\typedefs.h
-..\obj\pwrmgr.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\pwrmgr.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\pwrmgr.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\pwrmgr.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\pwrmgr.o: ..\Watch\debug.h
 ..\obj\pwrmgr.o: ..\Watch\buttons.h
 ..\obj\pwrmgr.o: ..\Watch\millis.h

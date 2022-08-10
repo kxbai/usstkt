@@ -1,14 +1,14 @@
 ..\obj\alarm.o: ..\Watch\alarm.c
 ..\obj\alarm.o: ..\Watch\common.h
-..\obj\alarm.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\alarm.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\alarm.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\alarm.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\alarm.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\alarm.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\alarm.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\alarm.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\alarm.o: ..\Watch\config.h
 ..\obj\alarm.o: ..\Watch\util.h
 ..\obj\alarm.o: ..\Watch\typedefs.h
-..\obj\alarm.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\alarm.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\alarm.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\alarm.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\alarm.o: ..\Watch\debug.h
 ..\obj\alarm.o: ..\Watch\buttons.h
 ..\obj\alarm.o: ..\Watch\millis.h

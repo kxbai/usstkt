@@ -1,14 +1,14 @@
 ..\obj\millis.o: ..\Watch\millis.c
 ..\obj\millis.o: ..\Watch\common.h
-..\obj\millis.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\millis.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\millis.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\millis.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\millis.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\millis.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\millis.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\millis.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\millis.o: ..\Watch\config.h
 ..\obj\millis.o: ..\Watch\util.h
 ..\obj\millis.o: ..\Watch\typedefs.h
-..\obj\millis.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\millis.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\millis.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\millis.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\millis.o: ..\Watch\debug.h
 ..\obj\millis.o: ..\Watch\buttons.h
 ..\obj\millis.o: ..\Watch\millis.h
@@ -87,6 +87,6 @@
 ..\obj\millis.o: ..\HARDWARE\ADC.h
 ..\obj\millis.o: ..\HARDWARE\bme280.h
 ..\obj\millis.o: ..\SYSTEM\usart\usart.h
-..\obj\millis.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\math.h
+..\obj\millis.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\math.h
 ..\obj\millis.o: ..\HARDWARE\DA17\DA17.h
 ..\obj\millis.o: ..\SYSTEM\usart\dma.h

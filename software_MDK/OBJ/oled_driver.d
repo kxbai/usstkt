@@ -2,7 +2,7 @@
 ..\obj\oled_driver.o: ..\HARDWARE\oledlib\oled_driver.h
 ..\obj\oled_driver.o: ..\USER\stm32f10x.h
 ..\obj\oled_driver.o: ..\CORE\core_cm3.h
-..\obj\oled_driver.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\oled_driver.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\oled_driver.o: ..\USER\system_stm32f10x.h
 ..\obj\oled_driver.o: ..\USER\stm32f10x_conf.h
 ..\obj\oled_driver.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h

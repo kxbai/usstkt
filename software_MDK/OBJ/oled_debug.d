@@ -5,6 +5,6 @@
 ..\obj\oled_debug.o: ..\HARDWARE\oledlib\oled_basic.h
 ..\obj\oled_debug.o: ..\HARDWARE\oledlib\oled_draw.h
 ..\obj\oled_debug.o: ..\HARDWARE\oledlib\oled_color.h
-..\obj\oled_debug.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\oled_debug.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\oled_debug.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\oled_debug.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\oled_debug.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\oled_debug.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdarg.h

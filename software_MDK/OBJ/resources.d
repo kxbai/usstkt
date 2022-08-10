@@ -1,14 +1,14 @@
 ..\obj\resources.o: ..\Watch\resources.c
 ..\obj\resources.o: ..\Watch\common.h
-..\obj\resources.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\resources.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\resources.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\resources.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\resources.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\resources.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\resources.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\resources.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\resources.o: ..\Watch\config.h
 ..\obj\resources.o: ..\Watch\util.h
 ..\obj\resources.o: ..\Watch\typedefs.h
-..\obj\resources.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\resources.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\resources.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\resources.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\resources.o: ..\Watch\debug.h
 ..\obj\resources.o: ..\Watch\buttons.h
 ..\obj\resources.o: ..\Watch\millis.h

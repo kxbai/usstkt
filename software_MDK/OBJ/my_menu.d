@@ -1,14 +1,14 @@
 ..\obj\my_menu.o: ..\MYAPP\My_Menu.c
 ..\obj\my_menu.o: ..\Watch\common.h
-..\obj\my_menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\my_menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\my_menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\my_menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\my_menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\my_menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\my_menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\my_menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\my_menu.o: ..\Watch\config.h
 ..\obj\my_menu.o: ..\Watch\util.h
 ..\obj\my_menu.o: ..\Watch\typedefs.h
-..\obj\my_menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\my_menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\my_menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\my_menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\my_menu.o: ..\Watch\debug.h
 ..\obj\my_menu.o: ..\Watch\buttons.h
 ..\obj\my_menu.o: ..\Watch\millis.h
@@ -89,5 +89,5 @@
 ..\obj\my_menu.o: ..\USER\NVIC.h
 ..\obj\my_menu.o: ..\HARDWARE\bme280.h
 ..\obj\my_menu.o: ..\SYSTEM\usart\usart.h
-..\obj\my_menu.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\math.h
+..\obj\my_menu.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\math.h
 ..\obj\my_menu.o: ..\MYAPP\altitude_display.h

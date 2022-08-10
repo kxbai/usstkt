@@ -3,7 +3,7 @@
 ..\obj\da17.o: ..\SYSTEM\sys\sys.h
 ..\obj\da17.o: ..\USER\stm32f10x.h
 ..\obj\da17.o: ..\CORE\core_cm3.h
-..\obj\da17.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\da17.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\da17.o: ..\USER\system_stm32f10x.h
 ..\obj\da17.o: ..\USER\stm32f10x_conf.h
 ..\obj\da17.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -31,5 +31,5 @@
 ..\obj\da17.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
 ..\obj\da17.o: ..\STM32F10x_FWLib\inc\misc.h
 ..\obj\da17.o: ..\HARDWARE\DA17\myiic.h
-..\obj\da17.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
+..\obj\da17.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
 ..\obj\da17.o: ..\SYSTEM\delay\delay.h

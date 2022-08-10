@@ -1,14 +1,14 @@
 ..\obj\nvic.o: NVIC.c
 ..\obj\nvic.o: ..\Watch\common.h
-..\obj\nvic.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\nvic.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\nvic.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\nvic.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\nvic.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\nvic.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\nvic.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\nvic.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\nvic.o: ..\Watch\config.h
 ..\obj\nvic.o: ..\Watch\util.h
 ..\obj\nvic.o: ..\Watch\typedefs.h
-..\obj\nvic.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\nvic.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\nvic.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\nvic.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\nvic.o: ..\Watch\debug.h
 ..\obj\nvic.o: ..\Watch\buttons.h
 ..\obj\nvic.o: ..\Watch\millis.h

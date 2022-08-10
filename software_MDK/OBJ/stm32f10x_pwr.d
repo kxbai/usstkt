@@ -2,7 +2,7 @@
 ..\obj\stm32f10x_pwr.o: ..\STM32F10x_FWLib\inc\stm32f10x_pwr.h
 ..\obj\stm32f10x_pwr.o: ..\USER\stm32f10x.h
 ..\obj\stm32f10x_pwr.o: ..\CORE\core_cm3.h
-..\obj\stm32f10x_pwr.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stm32f10x_pwr.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\stm32f10x_pwr.o: ..\USER\system_stm32f10x.h
 ..\obj\stm32f10x_pwr.o: ..\USER\stm32f10x_conf.h
 ..\obj\stm32f10x_pwr.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h

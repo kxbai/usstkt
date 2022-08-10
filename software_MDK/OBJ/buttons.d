@@ -1,13 +1,13 @@
 ..\obj\buttons.o: ..\Watch\buttons.c
 ..\obj\buttons.o: ..\Watch\buttons.h
 ..\obj\buttons.o: ..\Watch\typedefs.h
-..\obj\buttons.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\buttons.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\buttons.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\buttons.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\buttons.o: ..\Watch\common.h
-..\obj\buttons.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\buttons.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\buttons.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\buttons.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\buttons.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\buttons.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\buttons.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\buttons.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\buttons.o: ..\Watch\config.h
 ..\obj\buttons.o: ..\Watch\util.h
 ..\obj\buttons.o: ..\Watch\debug.h

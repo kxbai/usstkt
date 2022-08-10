@@ -3,7 +3,7 @@
 ..\obj\mpu_task.o: ..\SYSTEM\sys\sys.h
 ..\obj\mpu_task.o: ..\USER\stm32f10x.h
 ..\obj\mpu_task.o: ..\CORE\core_cm3.h
-..\obj\mpu_task.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\mpu_task.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\mpu_task.o: ..\USER\system_stm32f10x.h
 ..\obj\mpu_task.o: ..\USER\stm32f10x_conf.h
 ..\obj\mpu_task.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -31,14 +31,14 @@
 ..\obj\mpu_task.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
 ..\obj\mpu_task.o: ..\STM32F10x_FWLib\inc\misc.h
 ..\obj\mpu_task.o: ..\Watch\common.h
-..\obj\mpu_task.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\mpu_task.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\mpu_task.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\mpu_task.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\mpu_task.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\mpu_task.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\mpu_task.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\mpu_task.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\mpu_task.o: ..\Watch\config.h
 ..\obj\mpu_task.o: ..\Watch\util.h
 ..\obj\mpu_task.o: ..\Watch\typedefs.h
-..\obj\mpu_task.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\mpu_task.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
 ..\obj\mpu_task.o: ..\Watch\debug.h
 ..\obj\mpu_task.o: ..\Watch\buttons.h
 ..\obj\mpu_task.o: ..\Watch\millis.h
@@ -84,4 +84,4 @@
 ..\obj\mpu_task.o: ..\MYAPP\wait_data_clock.h
 ..\obj\mpu_task.o: ..\MYAPP\gui_log_console.h
 ..\obj\mpu_task.o: ..\HARDWARE\DA17\DA17.h
-..\obj\mpu_task.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\math.h
+..\obj\mpu_task.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\math.h

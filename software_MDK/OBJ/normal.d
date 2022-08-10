@@ -1,14 +1,14 @@
 ..\obj\normal.o: ..\Watch\normal.c
 ..\obj\normal.o: ..\Watch\common.h
-..\obj\normal.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\normal.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\normal.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
-..\obj\normal.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\normal.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdlib.h
+..\obj\normal.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdio.h
+..\obj\normal.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\string.h
+..\obj\normal.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\limits.h
 ..\obj\normal.o: ..\Watch\config.h
 ..\obj\normal.o: ..\Watch\util.h
 ..\obj\normal.o: ..\Watch\typedefs.h
-..\obj\normal.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdbool.h
-..\obj\normal.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\normal.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdbool.h
+..\obj\normal.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\stdint.h
 ..\obj\normal.o: ..\Watch\debug.h
 ..\obj\normal.o: ..\Watch\buttons.h
 ..\obj\normal.o: ..\Watch\millis.h
@@ -86,5 +86,5 @@
 ..\obj\normal.o: ..\MYAPP\My_Menu.h
 ..\obj\normal.o: ..\HARDWARE\bme280.h
 ..\obj\normal.o: ..\SYSTEM\usart\usart.h
-..\obj\normal.o: F:\Program Files\keil\ARM\ARMCC\Bin\..\include\math.h
+..\obj\normal.o: D:\Program Files\Keil\ARM\ARM_Compiler_5.06\Bin\..\include\math.h
 ..\obj\normal.o: ..\MYAPP\altitude_display.h
