@@ -11,3 +11,11 @@
 ## 1. 硬件 --> AD
     Pulse.PrjPCB --> ./hard
     Pulse.PcbDoc --> ./hard
+    
+## 使用的软件版本与串口驱动
+    keil --> Keil MDK v5.35
+    AD --> Altium.Designer.20.2.6.Build.244
+    CP210x_Windows_Drivers
+
+    下载链接：https://pan.baidu.com/s/1n1GcMMvNtP3qD4Go8FEblg?pwd=gbv1 
+
