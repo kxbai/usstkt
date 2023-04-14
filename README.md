@@ -16,6 +16,10 @@ download： JLink/STLink
     keil --> Keil MDK v5.35
     AD --> Altium.Designer.20.2.6.Build.244
     CP210x_Windows_Drivers
+    
+It should be noted that a 5.x arm compiler is required, so it is recommended to directly install keil for v5.35.
 
-    get：https://pan.baidu.com/s/1n1GcMMvNtP3qD4Go8FEblg?pwd=gbv1 
+You also need to download the JTAG driver and use JTAG for program download and debugging.
+
+get software and driver：**https://pan.baidu.com/s/1n1GcMMvNtP3qD4Go8FEblg?pwd=gbv1** 
 
