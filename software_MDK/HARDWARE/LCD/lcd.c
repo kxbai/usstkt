@@ -16,16 +16,16 @@ void LCD_Init(void)
 { 
 	InitGraph();
 
-    if(!appConfig.display180)
-	{
-		WriteCmd(0xA1); 
-		WriteCmd(0XC8); 
-	}
-	else
-	{
+//    if(!appConfig.display180)
+//	{
+//		WriteCmd(0xA1); 
+//		WriteCmd(0XC8); 
+//	}
+//	else
+//	{
 		WriteCmd(0xA0); 
 		WriteCmd(0xC0); 
-	}
+//	}
 }
   
 //ÇåÆÁº¯Êý
