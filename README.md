@@ -1,4 +1,4 @@
-# USST 脉象信息采集手环
+# Pulse information collection
 ----
 
 ## 0. software --> keil 5
